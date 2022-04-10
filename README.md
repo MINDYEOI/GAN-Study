@@ -10,5 +10,5 @@ Generative Adversarial Nets을 공부한 기록입니다📝
 ## 배경지식 및 활용
 
 * [[해석] Supervised and Unsupervised Representation Learning for Reinforcement Learning in Autodriving area](https://velog.io/@mindyeoi/%ED%95%B4%EC%84%9D-Supervised-and-Unsupervised-Representation-Learning-for-Reinforcement-Learning)
-  * DCGANs 활용이 아니지만, 지도 및 비지도 표현 학습을 강화학습에, 특히 자율주행 분야에 적용한 과정이 세세하게 나와있다.  
+  * GAN 활용은 아니지만, DCGANs에서 사용되는 지도 및 비지도 표현 학습을 강화학습에, 특히 자율주행 분야에 적용한 것이 흥미로워서 정리하게 되었다.  
   * 오픈소스로 학생도 쉽게 테스팅을 해볼 수 있는 환경을 알려주는 것도 좋은 도움이 되었다.
