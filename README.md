@@ -5,7 +5,7 @@ Generative Adversarial Nets을 공부한 기록입니다📝
 | 논문명 | 저자 | 리뷰 링크 |
 |:---:|:---:|:---:|
 | [Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html) | Goodfellow, Ian, et al. | 🔗 |
-| [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) |Radford, Alec, Luke Metz, and Soumith Chintala|[🔗](https://velog.io/@mindyeoi/%EB%85%BC%EB%AC%B8-%EB%BD%80%EA%B0%9C%EA%B8%B0-Unsupervised-Representation-Learning-with-Deep-Convolutional-Generative-Adversarial-Networks-%EB%A6%AC%EB%B7%B0)|
+| [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) |Radford Alec, Luke Metz, and Soumith Chintala|[🔗](https://velog.io/@mindyeoi/%EB%85%BC%EB%AC%B8-%EB%BD%80%EA%B0%9C%EA%B8%B0-Unsupervised-Representation-Learning-with-Deep-Convolutional-Generative-Adversarial-Networks-%EB%A6%AC%EB%B7%B0)|
 
 ## 배경지식 및 활용
 ### [1] Generative Adversarial Nets
